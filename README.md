@@ -181,7 +181,7 @@ Crie exercícios práticos sobre [ASSUNTO] com resolução comentada.
 
 Notebook utilizado no projeto:
 
-[Acessar NotebookLM](COLE_AQUI_SEU_LINK_COMPARTILHÁVEL)
+[Acessar NotebookLM] https://notebooklm.google.com/notebook/3460eb74-c894-4ab2-bbe9-488cb652e7b6
 
 ---
 
